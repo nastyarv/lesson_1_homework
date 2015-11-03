@@ -56,8 +56,8 @@
 10. Maximum values ( «kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk» - 30 символов )
 11. Other chars then alphabetic ( «25??24»)
 12. Basic Sql injection ("Jone’s" – SQL реагирует на одинарные кавычки)
-13. You used html tags ("<script>Nastya</script>")
-14. Basic XSS ("<script>Nastya</script>") - подозрение на взлом 
+13. You used html tags ("<script> Nastya </script>")
+14. Basic XSS ("<script> Nastya </script>") - подозрение на взлом 
 
 ### Баг-репорт «Empty»
 1. Предусловия: 
